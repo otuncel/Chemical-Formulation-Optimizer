@@ -1,0 +1,4 @@
+pandas
+pulp
+pywin32
+openpyxl
