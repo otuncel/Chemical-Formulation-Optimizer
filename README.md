@@ -22,4 +22,4 @@ This project solves a common problem in chemical engineering: finding the most c
 3. Open `optimization_input.xlsm` and enter your data in the *Materials* and *Constraints* sheets.
 4. Click the **"Optimize"** button.
 
-You can watch the demo video <a href="https://vimeo.com/1192242165?share=copy&fl=sv&fe=ci">here</a>
+You can watch the demo video <a href="https://vimeo.com/1192246646">here</a>
